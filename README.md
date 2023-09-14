@@ -1,6 +1,7 @@
 # c-sharp
 
-## Number Guessing Game in C# 
+
+## 1. Number Guessing Game in C# 
 This is a simple console-based number guessing game implemented in C#. The program generates a random number between a specified range and challenges the player to guess that number. The player is provided with hints like "too high" or "too low" after each guess. The game continues until the player correctly guesses the number or chooses to exit.
 
 ### Features:
